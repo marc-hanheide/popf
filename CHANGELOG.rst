@@ -4,10 +4,6 @@ Changelog for package popf
 
 Forthcoming
 -----------
-* Update Changelog
-* 0.0.16
-* Update Changelog
-* Contributors: Francisco Martín Rico
 
 0.0.16 (2024-10-12)
 -------------------
